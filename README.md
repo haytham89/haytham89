@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning advanced javascript , DevOps tools
 - 💞️ I’m looking to collaborate on anything onilne
-- 📫 How to reach me : DM me
+- 📫 How to reach me : haytham89@gmail.com 
 
 <!---
 haytham89/haytham89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
